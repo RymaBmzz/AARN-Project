@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1112</width>
+    <height>728</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/arr.jpg);
+</string>
+  </property>
+  <property name="resource" stdset="0">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>330</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package2</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package3</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package4</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package5</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package6</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package7</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package8</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package9</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package10</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package11</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package12</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package13</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package14</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package15</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package16</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package17</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package18</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package19</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package20</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package21</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package22</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package23</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Package24</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>10</y>
+      <width>471</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:20pt; font-style:italic;&quot;&gt;Silent Monitoring&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>190</y>
+      <width>321</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>16</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 16pt &quot;Comic Sans MS&quot;;</string>
+    </property>
+    <property name="text">
+     <string> Choisir une instance</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>280</y>
+      <width>291</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="autoFillBackground">
+     <bool>true</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image: url(:/labelarriere.jpg);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>190</y>
+      <width>291</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>16</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 16pt &quot;Comic Sans MS&quot;;</string>
+    </property>
+    <property name="text">
+     <string>           Cible</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>190</y>
+      <width>291</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>16</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 16pt &quot;Comic Sans MS&quot;;</string>
+    </property>
+    <property name="text">
+     <string>         Resultat</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>280</y>
+      <width>291</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-image: url(:/labelarriere.jpg);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>330</y>
+      <width>91</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 10pt &quot;Comic Sans MS&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Verifier </string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1112</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menumenu">
+    <property name="title">
+     <string>Menu</string>
+    </property>
+    <addaction name="actionA_propos"/>
+   </widget>
+   <widget class="QMenu" name="menuQuitter">
+    <property name="title">
+     <string>Quitter</string>
+    </property>
+   </widget>
+   <addaction name="menumenu"/>
+   <addaction name="menuQuitter"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionA_propos">
+   <property name="text">
+    <string>Architecture du Modele de RN </string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
